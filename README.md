@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tusharhatwar13" target="blank"><img src="https://img.shields.io/twitter/follow/tusharhatwar13?logo=twitter&style=for-the-badge" alt="tusharhatwar13" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data Technologies**
+- 🌱 I’m a **Big Data Engineer**
 
 - 📫 How to reach me **tusharhatwar785@gmail.com**
 
@@ -23,16 +23,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="scala" width="40" height="40"/> </a>
+
 
 <p align="left">
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.png" alt="Spark" width="40" height="40"/> </a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="Spark" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
